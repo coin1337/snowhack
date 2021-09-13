@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.snow.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: snow_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: rr.snowhack.snow.mixin.MixinLoaderForge
+
