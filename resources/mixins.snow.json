@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "rr.snowhack.snow.mixin.client",
+  "refmap": "mixins.snow.refmap.json",
+  "client": [
+    "MixinGuiChat",
+    "MixinGuiNewChat",
+    "MixinNetworkManager",
+    "MixinEntity",
+    "MixinMinecraft",
+    "MixinStateImplementation",
+    "MixinEntityRenderer",
+    "MixinEntityPlayerSP",
+    "MixinModelBoat",
+    "MixinBlockSoulSand",
+    "MixinEntityPig",
+    "MixinGuiScreen",
+    "MixinBlockLiquid",
+    "MixinRenderPlayer",
+    "MixinGuiPlayerTabOverlay",
+    "MixinC00Handshake",
+    "MixinNetHandlerPlayClient",
+    "MixinRenderLiving",
+    "MixinPlayerControllerMP",
+    "MixinEntityLlama"
+  ]
+}

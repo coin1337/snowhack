@@ -1,0 +1,12 @@
+﻿[
+  {
+    "modid": "snow",
+    "name": "SnowHack",
+    "description": "snowhack 
+A Minecraft utility mod for anarchy servers",
+    "version": "3.8.3",
+    "mcversion": "1.12.2",
+    "authorList": ["snowmii"],
+    "credits": "Thanks 086 for the original KAMI"
+  }
+]
